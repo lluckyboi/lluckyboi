@@ -6,7 +6,7 @@ Go后端开发工程师
 <img src="https://github-readme-stats.vercel.app/api?username=lluckyboi&show_icons=true" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 I’m currently studying in **Chongqing**.
-- 🌱 I’m currently learning **Web Development** **kubernates** , **micro service** .
+- 🌱 I’m currently learning **Web Development** , **kubernates** , **micro service** .
 
 
 ## 🚀 Tech Stack:
