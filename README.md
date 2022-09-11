@@ -22,7 +22,7 @@ Go后端开发工程师
          width="30"
          height="30">
   </a>
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/StellarisW/StellarisW/master/assets/Night-Coding.gif" align="right"/>
+ 
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
          alt="Java"
@@ -34,7 +34,8 @@ Go后端开发工程师
          alt="Python"
          alt="aws" width="30" height="30"/>
   </a>
-- <img src="assets/gopher.png" height=20px width=15px style="position:relative;top: 3px;left: 8px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+- 🧱 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gin-gonic/gin" target="_blank">
     <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"
         alt="gin-gonic"
