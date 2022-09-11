@@ -16,12 +16,6 @@ Go后端开发工程师
          alt="C++"
          alt="aws" width="30" height="30"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_csharp.svg "
-         alt="C#"
-         width="30"
-         height="30"/>
-  </a>
   <a href="https://go.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"
          alt="go"
@@ -56,16 +50,8 @@ Go后端开发工程师
         alt="go-zero"
         alt="aws" width="30" height="30"/>
   </a>
-    <a href="https://github.com/traefik/traefik" target="_blank">
-    <img src="https://raw.githubusercontent.com/traefik/traefik/master/docs/content/assets/img/traefik.logo.png"
-        alt="traefik"
-        alt="aws" width="30" height="30"/>
-  </a>
-    <a href="https://github.com/jaegertracing/jaeger" target="_blank">
-    <img src="https://www.jaegertracing.io/img/jaeger-vector.svg"
-        alt="jaeger"
-        alt="aws" width="30" height="30"/>
-  </a>
+    
+ 
 - 🌐 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -82,12 +68,6 @@ Go后端开发工程师
   <a href="https://www.javascript.com/" target="_blank">
    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"
        alt="JavaScript"
-       width="30"
-       height="30">
-  </a>
-   <a href="https://www.typescriptlang.org/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-       alt="TypeScript"
        width="30"
        height="30">
   </a>
@@ -110,21 +90,9 @@ Go后端开发工程师
        width="30"
        height="30">
   </a>
-   <a href="https://elastic.co/" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/elastic.svg"
-       alt="Elastic"
-       width="30"
-       height="30">
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank">
+     <a href="https://kafka.apache.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg"
        alt="Kafka"
-       width="30"
-       height="30">
-  </a>
-  <a href="https://nsq.io/" target="_blank">
-    <img src="https://nsq.io/static/img/nsq_blue.png"
-       alt="NSQ"
        width="30"
        height="30">
   </a>
@@ -147,38 +115,13 @@ Go后端开发工程师
        width="30"
        height="30">
   </a>
-  <a href="https://graphql.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg"
-    alt="GraphQL"
-    width="30"
-    height="30">
-  </a>
   <a href="https://github.com/hashicorp/consul" target="_blank">
   <img src="https://raw.githubusercontent.com/hashicorp/consul/main/website/public/img/favicon.ico"
     alt="consul"
     width="30"
    height="30"/>
   </a>
-  </a>
-  <a href="https://www.apolloconfig.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/apollo.svg"
-    alt="Apollo"
-    width="30"
-    height="30"/>
-  </a>
 - 📟 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mathworks.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"
-       alt="Matlab"
-       width="30"
-       height="30">
-  </a>
-  <a href="https://www.wolfram.com/mathematica/" target="_blank">
-    <img src="https://github.com/detain/svg-logos/blob/master/svg/mathematica.svg"
-       alt="Mathematica"
-       width="30"
-       height="30">
-  </a>
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg"
        alt="PyTorch"
