@@ -11,11 +11,3 @@ Go后端开发工程师
 
 ## 📚 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lluckyboi)](https://github.com/lluckyboi?tab=repositories)
-
-## 🎗 Follow Me
-![访问个人主页数量](https://komarev.com/ghpvc/?username=lluckyboi&color=green)
-[![Github](https://img.shields.io/github/followers/lluckyboi?label=Github&style=social)](https://github.com/lluckyboi)
-
-## 🔗 More
-Wanna know more about me?
-Visit my [blog](https://fengxiangrui.top)
